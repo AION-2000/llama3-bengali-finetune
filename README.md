@@ -64,7 +64,7 @@ llama3-bengali-finetune/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llama3-bengali-finetune.git
+git clone https://github.com/AION-2000/llama3-bengali-finetune.git
 cd llama3-bengali-finetune
 ```
 
@@ -198,10 +198,10 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{bengali_empathetic_llama,
-  author = {Your Name},
+  author = {Shihab Shahriar Aion},
   title = {Bengali Empathetic LLaMA 3.1: Fine-tuning for Culturally-Aware Conversational AI},
   year = {2024},
-  url = {https://github.com/YOUR_USERNAME/llama3-bengali-finetune}
+  url = {https://github.com/AION-2000/llama3-bengali-finetune}
 }
 ```
 
@@ -221,8 +221,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions, suggestions, or collaboration opportunities, please:
 
 - Open an issue on GitHub
-- Contact the maintainer at [your.email@example.com]
-- Join our discussion forum at [link-to-forum]
+- Contact the maintainer at [aionshihabshahriar@gmail.com]
+- Join our discussion forum at Whatsapp:01959040057
 
 ---
 
