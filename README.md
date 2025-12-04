@@ -200,7 +200,7 @@ If you use this project in your research, please cite:
 @software{bengali_empathetic_llama,
   author = {Shihab Shahriar Aion},
   title = {Bengali Empathetic LLaMA 3.1: Fine-tuning for Culturally-Aware Conversational AI},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/AION-2000/llama3-bengali-finetune}
 }
 ```
