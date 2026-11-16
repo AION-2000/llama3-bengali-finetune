@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
 
-A specialized empathetic chatbot for Bengali language interactions, built by fine-tuning Meta's LLaMA 3.1-8B-Instruct model on a curated corpus of empathetic conversations.
+A Bengali-language conversational AI research project that fine-tunes Meta Llama 3.1 8B Instruct on an empathetic-dialogue corpus using PyTorch and Hugging Face tooling.
 
 ## Overview
 
